@@ -1,4 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="128170" tvg-name="Vidarbha Pro T20 League, 2025" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128170_CASACARDS_PARTNER_16_9_1920_1080.png" tvg-language="ENGLISH" group-title="Cricket",ENGLISH | Neco Master Blaster Vs Orange Tigers
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://timstreams.site/
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+https://youtu.be/gDmPwvAiKes
