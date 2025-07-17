@@ -7,4 +7,9 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
 http://vocotv.pro:80/live/gast/gast/2701.ts
+#EXTINF:1,
+http://vocotv.pro:80/live/gast/gast/2701_1.ts
+#EXTINF:1,
+http://vocotv.pro:80/live/gast/gast/2701_2.ts
+
 
