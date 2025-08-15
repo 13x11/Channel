@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/pl.jpg",Hub Premier 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
